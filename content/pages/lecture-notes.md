@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 49bb1f92-0987-68a5-8422-744178c448d9
 ---
@@ -83,7 +86,7 @@ Internet Archive ([MP3 - 22.8MB](http://www.archive.org/download/MITMAS_531F09/M
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -96,7 +99,7 @@ Internet Archive ([MP3 - 14.7MB](http://www.archive.org/download/MITMAS_531F09/M
 {{< tdopen >}}
 ([PDF - 2.5MB]({{< baseurl >}}/resources/mitmas_531f09_lec03))
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 no notes
 {{< tdclose >}}
 
@@ -139,7 +142,7 @@ Internet Archive ([MP3 - 8.2MB](http://www.archive.org/download/MITMAS_531F09/MI
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 5
 {{< tdclose >}}
 {{< tdopen >}}
@@ -194,7 +197,7 @@ no notes
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 6
 {{< tdclose >}}
 {{< tdopen >}}
@@ -204,10 +207,10 @@ Lightfields, part 2
 [iTunesU (MP3 - 19.5MB)](https://itunes.apple.com/us/itunes-u/id1071310889)  
 Internet Archive ([MP3 - 19.5MB](http://www.archive.org/download/MITMAS_531F09/MITMAS_531F09_lec06_1.mp3))
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 ([PDF - 4.7MB]({{< baseurl >}}/resources/mitmas_531f09_lec06))
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 ([PDF - 1.4MB]({{< baseurl >}}/resources/mitmas_531f09_lec06_notes))
 {{< tdclose >}}
 
@@ -233,7 +236,7 @@ Internet Archive ([MP3 - 11.7MB](http://www.archive.org/download/MITMAS_531F09/M
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 8
 {{< tdclose >}}
 {{< tdopen >}}
@@ -246,7 +249,7 @@ Internet Archive ([MP3 - 3.5MB](http://www.archive.org/download/MITMAS_531F09/MI
 {{< tdopen >}}
 no slides
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
  no notes
 {{< tdclose >}}
 
@@ -278,7 +281,7 @@ Internet Archive ([MP3 -](http://www.archive.org/download/MITMAS_531F09/MITMAS_5
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 9
 {{< tdclose >}}
 {{< tdopen >}}
@@ -291,7 +294,7 @@ Internet Archive ([MP3 - 20.1MB](http://www.archive.org/download/MITMAS_531F09/M
 {{< tdopen >}}
 ([PDF - 1.8MB]({{< baseurl >}}/resources/mitmas_531f09_lec09_1))
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 no notes
 {{< tdclose >}}
 
@@ -342,7 +345,7 @@ no slides
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 11
 {{< tdclose >}}
 {{< tdopen >}}
@@ -355,7 +358,7 @@ Internet Archive ([MP3 - 18.9MB](http://www.archive.org/download/MITMAS_531F09/M
 {{< tdopen >}}
 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.5MB]({{< baseurl >}}/resources/mitmas_531f09_lec11_1))
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 no notes
 {{< tdclose >}}
 
