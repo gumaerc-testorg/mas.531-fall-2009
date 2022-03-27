@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 49bb1f92-0987-68a5-8422-744178c448d9
 resourcetype: Document
 title: Lightfields, part 1
 uid: d9d3a98c-6296-2f46-9dc4-f42e01a0b881

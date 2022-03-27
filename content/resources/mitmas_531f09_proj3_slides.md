@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 2fcf5de0-b2b1-19ca-33d1-c6ff7c739036
 resourcetype: Document
 title: Motion Blur and Chicken Heads
 uid: 6e17a368-48b6-ab0c-6ae4-9a7143510202

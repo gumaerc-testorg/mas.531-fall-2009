@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 49bb1f92-0987-68a5-8422-744178c448d9
 resourcetype: Document
 title: Introduction to Light Fields
 uid: 40e9d54e-4035-08a3-53d0-5a8b34a67258

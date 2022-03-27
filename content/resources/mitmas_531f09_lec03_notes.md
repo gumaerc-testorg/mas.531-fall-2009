@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 49bb1f92-0987-68a5-8422-744178c448d9
 resourcetype: Document
 title: Epsilon Photography-Improving Film-like Photography
 uid: 5c335837-f664-fc10-67d3-880ddedbd3c5

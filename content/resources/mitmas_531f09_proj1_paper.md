@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 2fcf5de0-b2b1-19ca-33d1-c6ff7c739036
 resourcetype: Document
 title: Separating Transparent Layers in Images
 uid: fa886348-e8cb-606a-07e4-06329d1ae2d6

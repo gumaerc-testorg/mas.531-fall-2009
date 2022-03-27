@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 2fcf5de0-b2b1-19ca-33d1-c6ff7c739036
 resourcetype: Image
 title: Animation of concept
 uid: 3bbc1464-5e2b-150b-2f37-c6f8cd4a5a08
