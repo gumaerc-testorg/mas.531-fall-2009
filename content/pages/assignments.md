@@ -3,11 +3,12 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: 41d0b379-f7c4-4738-d6ab-994fa02224ed
 ---
 
-This page describes the four homework assignments for the class. The final project with some example student work is presented on the [projects]({{< baseurl >}}/pages/projects) page.
+This page describes the four homework assignments for the class. The final project with some example student work is presented on the {{< resource_link 2fcf5de0-b2b1-19ca-33d1-c6ff7c739036 "projects" >}} page.
 
 *   [Homework 1: Relighting](#HW1)
 *   [Homework 2: Optics](#HW2)

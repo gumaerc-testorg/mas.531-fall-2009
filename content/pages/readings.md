@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
+parent_uid: null
 title: Readings
 uid: ca0ea088-4a6d-96d6-96b1-8a7407c6cc43
 ---
@@ -19,7 +20,7 @@ Some useful introductory material from my SIGGRAPH Computational Photography cou
 Assigned Readings
 -----------------
 
-Additional readings associated with the [assignments]({{< baseurl >}}/pages/assignments) are listed on that page, and the [related resources]({{< baseurl >}}/pages/related-resources) page also contains relevant reading material.
+Additional readings associated with the {{< resource_link 41d0b379-f7c4-4738-d6ab-994fa02224ed "assignments" >}} are listed on that page, and the {{< resource_link a2d550b5-7726-a799-2dd2-1f2dc9973361 "related resources" >}} page also contains relevant reading material.
 
 ### Lightfields
 
