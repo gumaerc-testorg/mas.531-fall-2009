@@ -1,14 +1,14 @@
 ---
 content_type: page
+description: This section describes the four homework assignments for the class.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
-parent_uid: null
 title: Assignments
 uid: 41d0b379-f7c4-4738-d6ab-994fa02224ed
 ---
 
-This page describes the four homework assignments for the class. The final project with some example student work is presented on the {{< resource_link 2fcf5de0-b2b1-19ca-33d1-c6ff7c739036 "projects" >}} page.
+This page describes the four homework assignments for the class. The final project with some example student work is presented on the {{% resource_link 2fcf5de0-b2b1-19ca-33d1-c6ff7c739036 "projects" %}} page.
 
 *   [Homework 1: Relighting](#HW1)
 *   [Homework 2: Optics](#HW2)
@@ -101,7 +101,7 @@ More projects are described at the Stanford Computer Graphics Laboratory's "[Lig
 
 Other ways to create lightfields include:
 
-*   Flatbed scanner + lenticulars — See Yang, Jason C. "A Light Field Camera For Image Based Rendering." Master's Thesis, MIT, 2000. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.7MB](http://groups.csail.mit.edu/graphics/pubs/thesis_jcyang.pdf))
+*   Flatbed scanner + lenticulars — See Yang, Jason C. "A Light Field Camera For Image Based Rendering." Master's Thesis, MIT, 2000. ([PDF - 1.7MB](http://groups.csail.mit.edu/graphics/pubs/thesis_jcyang.pdf))
 *   Masks — See Veeraraghavan, A., et al. "[Dappled Photography: Mask Enhanced Cameras for Heterodyned Light Fields and Coded Aperture Refocusing](http://web.media.mit.edu/~raskar/Mask/)." ACM SIGGRAPH 2007.
 
 ### Assignment 2C: Lightfield Photography (same as 2B) but with Input Photos Rendered in Software
@@ -222,7 +222,7 @@ Get the wavelength profile of at least two light sources (e.g. mercury vapor and
 {{< tdopen >}}
 
 
-Instructions to build your own spectroscope: Turricchia, A., and A. Majcher. “Amateur spectroscope.” (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.pl.euhou.net/docupload/files/Excersises/WorldAroundUs/Spectroscope/spectroscope.pdf))
+Instructions to build your own spectroscope: Turricchia, A., and A. Majcher. “Amateur spectroscope.” ([PDF](http://www.pl.euhou.net/docupload/files/Excersises/WorldAroundUs/Spectroscope/spectroscope.pdf))
 
 
 {{< tdclose >}}

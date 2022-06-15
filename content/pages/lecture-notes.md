@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: 'This section presents selected lecture content in three forms: audio
+  recordings, slides, and scribed notes taken by students during class.'
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
-parent_uid: null
 title: Lecture Notes
 uid: 49bb1f92-0987-68a5-8422-744178c448d9
 ---
@@ -55,7 +56,7 @@ Internet Archive ([MP3 - 14.9MB](http://www.archive.org/download/MITMAS_531F09/M
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 16.3MB](/ans7870/MAS/MAS.531/F09/LECTURE/MITMAS_531F09_lec01.pdf))
+([PDF - 16.3MB](/ans7870/MAS/MAS.531/F09/LECTURE/MITMAS_531F09_lec01.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
  no notes
@@ -79,10 +80,10 @@ Part 2
 Internet Archive ([MP3 - 22.8MB](http://www.archive.org/download/MITMAS_531F09/MITMAS_531F09_lec02_2.mp3))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link ffb4e9da-5950-6c4c-ad61-1e4a64b66a28 "PDF - 8.6MB" >}})
+({{% resource_link ffb4e9da-5950-6c4c-ad61-1e4a64b66a28 "PDF - 8.6MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link edf7161e-8f0a-0666-9eba-9a44d4435815 "PDF" >}})
+({{% resource_link edf7161e-8f0a-0666-9eba-9a44d4435815 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +99,7 @@ Epsilon Photography: Improving Film-like Photography (guest lecture by Ankit Moh
 Internet Archive ([MP3 - 14.7MB](http://www.archive.org/download/MITMAS_531F09/MITMAS_531F09_lec03_1.mp3))
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link bc24ae73-b93d-9f61-5f59-23b1011cfe77 "PDF - 2.5MB" >}})
+({{% resource_link bc24ae73-b93d-9f61-5f59-23b1011cfe77 "PDF - 2.5MB" %}})
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
 no notes
@@ -114,7 +115,7 @@ Single-shot Multi-domain Camera (guest lecture by Roarke Horstmeyer)
 Internet Archive ([MP3 - 8.8MB](http://www.archive.org/download/MITMAS_531F09/MITMAS_531F09_lec03_2.mp3))
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link dc2fc981-b218-4f2a-413d-be96dc1d91ca "PDF - 2.2MB" >}})
+({{% resource_link dc2fc981-b218-4f2a-413d-be96dc1d91ca "PDF - 2.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,10 +136,10 @@ Part 2
 Internet Archive ([MP3 - 8.2MB](http://www.archive.org/download/MITMAS_531F09/MITMAS_531F09_lec04_2.mp3))
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 2a76f8a6-30f6-2373-d872-34a9fd3ba38a "PDF - 3.6MB" >}})
+({{% resource_link 2a76f8a6-30f6-2373-d872-34a9fd3ba38a "PDF - 3.6MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 3d72c5a3-357d-f158-daeb-8488e7bffd86 "PDF" >}})
+({{% resource_link 3d72c5a3-357d-f158-daeb-8488e7bffd86 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,10 +165,10 @@ Internet Archive ([MP3 -](http://www.archive.org/download/MITMAS_531F09/MITMAS_5
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 40e9d54e-4035-08a3-53d0-5a8b34a67258 "PDF - 4.6MB" >}})
+({{% resource_link 40e9d54e-4035-08a3-53d0-5a8b34a67258 "PDF - 4.6MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link d9d3a98c-6296-2f46-9dc4-f42e01a0b881 "PDF" >}})
+({{% resource_link d9d3a98c-6296-2f46-9dc4-f42e01a0b881 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,7 +181,7 @@ Recent research: Retrographic Sensing for the Measurement of Surface Texture and
 Internet Archive ([MP3 - 6.5MB](http://www.archive.org/download/MITMAS_531F09/MITMAS_531F09_lec05_3.mp3))
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link c64a9a1d-e7be-fb2c-0c7c-8825d69c5163 "PDF - 3.4MB" >}})  
+({{% resource_link c64a9a1d-e7be-fb2c-0c7c-8825d69c5163 "PDF - 3.4MB" %}})  
   
 _GelSight Videos_  
 Thermoplastic elastomer (TPE) ([MOV](/ans7870/MAS/MAS.531/F09/LECTURE/lec05_tpe.mov))  
@@ -209,10 +210,10 @@ Lightfields, part 2
 Internet Archive ([MP3 - 19.5MB](http://www.archive.org/download/MITMAS_531F09/MITMAS_531F09_lec06_1.mp3))
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-({{< resource_link a103c24a-51ae-ab7c-e02f-6f715c7c33d1 "PDF - 4.7MB" >}})
+({{% resource_link a103c24a-51ae-ab7c-e02f-6f715c7c33d1 "PDF - 4.7MB" %}})
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-({{< resource_link b44ed195-67b2-80f0-7596-0c5978f3bd2f "PDF - 1.4MB" >}})
+({{% resource_link b44ed195-67b2-80f0-7596-0c5978f3bd2f "PDF - 1.4MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -264,7 +265,7 @@ Wavelengths and colors (guest lecture by Ankit Mohan)
 Internet Archive ([MP3 - 19.5MB](http://www.archive.org/download/MITMAS_531F09/MITMAS_531F09_lec08_2.mp3))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 7b9d8b0a-7443-41f8-3848-724a9161c37a "PDF - 2.5MB" >}})
+({{% resource_link 7b9d8b0a-7443-41f8-3848-724a9161c37a "PDF - 2.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -277,7 +278,7 @@ Survey of Hyperspectral Imaging Techniques (guest lecture by Michael Stenner, MI
 Internet Archive ([MP3 -](http://www.archive.org/download/MITMAS_531F09/MITMAS_531F09_lec08_3.mp3) [13.6](http://www.archive.org/download/MITMAS_531F09/MITMAS_531F09_lec08_3.mp3)[MB](http://www.archive.org/download/MITMAS_531F09/MITMAS_531F09_lec08_3.mp3))
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 42009c03-1a6d-382a-6df1-e08af6241268 "PDF" >}})
+({{% resource_link 42009c03-1a6d-382a-6df1-e08af6241268 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -293,7 +294,7 @@ Computational imaging: a survey of medical and scientific applications (guest le
 Internet Archive ([MP3 - 20.1MB](http://www.archive.org/download/MITMAS_531F09/MITMAS_531F09_lec09_1.mp3))
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link b0c7f88b-8fad-a31f-9e9a-5ffdfb00f261 "PDF - 1.8MB" >}})
+({{% resource_link b0c7f88b-8fad-a31f-9e9a-5ffdfb00f261 "PDF - 1.8MB" %}})
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
 no notes
@@ -309,7 +310,7 @@ no notes
 Internet Archive ([MP3 - 13.4MB](http://www.archive.org/download/MITMAS_531F09/MITMAS_531F09_lec09_2.mp3))
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 2ffc05d3-8cb0-5cb1-bca9-2ab86cd58d06 "PDF 1 - 1.5MB" >}}) ({{< resource_link e139c820-4b78-a3cc-1cdb-cc0dc690d147 "PDF 2 - 1.9MB" >}})
+({{% resource_link 2ffc05d3-8cb0-5cb1-bca9-2ab86cd58d06 "PDF 1 - 1.5MB" %}}) ({{% resource_link e139c820-4b78-a3cc-1cdb-cc0dc690d147 "PDF 2 - 1.9MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -341,7 +342,7 @@ no audio
 no slides
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 784fbe9e-6945-839f-5a94-d2218cc3ffdf "PDF" >}})
+({{% resource_link 784fbe9e-6945-839f-5a94-d2218cc3ffdf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -357,7 +358,7 @@ Coded imaging
 Internet Archive ([MP3 - 18.9MB](http://www.archive.org/download/MITMAS_531F09/MITMAS_531F09_lec11.mp3))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 9b592453-dcc8-51be-79ce-e815b30cf508 "PDF - 2.5MB" >}})
+({{% resource_link 9b592453-dcc8-51be-79ce-e815b30cf508 "PDF - 2.5MB" %}})
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
 no notes
@@ -372,7 +373,7 @@ Wishlist for photography
 no audio
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 528b4944-bfe0-aba2-7c2e-69b20682331f "PDF - 6.2MB" >}})
+({{% resource_link 528b4944-bfe0-aba2-7c2e-69b20682331f "PDF - 6.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

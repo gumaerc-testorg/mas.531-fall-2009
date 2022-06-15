@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: Links to related resources on computational photography, Nobel Prizes
+  related to imaging, and additional useful resources.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Related Resources
 uid: a2d550b5-7726-a799-2dd2-1f2dc9973361
 ---
@@ -98,16 +99,16 @@ Photo classes offered by the [MIT Student Art Association](http://saa.mit.edu/)
 
 [Photoshop Healing Brush and Covariant Derivatives](http://www.tgeorgiev.net/) by Todor Georgiev
 
-Szeliski, Rick. "Image Alignment and Stitching: A Tutorial." 2004 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://graphics.cs.cmu.edu/courses/15-463/2004_fall/www/Papers/MSR-TR-2004-92-Sep27.pdf))
+Szeliski, Rick. "Image Alignment and Stitching: A Tutorial." 2004 ([PDF](http://graphics.cs.cmu.edu/courses/15-463/2004_fall/www/Papers/MSR-TR-2004-92-Sep27.pdf))
 
 [Autostitch](http://matthewalunbrown.com/autostitch/autostitch.html) (University of British Columbia)
 
-Ramanath, R., W. E. Snyder, Y. Yoo, and M. S. Drew. "Color Image Processing Pipeline in Digital Still Cameras." 2005 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 7.8MB](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.11.77&rep=rep1&type=pdf))
+Ramanath, R., W. E. Snyder, Y. Yoo, and M. S. Drew. "Color Image Processing Pipeline in Digital Still Cameras." 2005 ([PDF - 7.8MB](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.11.77&rep=rep1&type=pdf))
 
-Farrel, J. E., F. Xiao, P. B. Catrysse, and B. A. Wandell. "A Simulation Tool for Evaluating Digital Camera Image Quality." 2004 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://scarlet.stanford.edu/~brian/papers/pdc/SPIE-2004-Simulator-5294-17.pdf))
+Farrel, J. E., F. Xiao, P. B. Catrysse, and B. A. Wandell. "A Simulation Tool for Evaluating Digital Camera Image Quality." 2004 ([PDF](http://scarlet.stanford.edu/~brian/papers/pdc/SPIE-2004-Simulator-5294-17.pdf))
 
 Withagen, P. J., F. C. A. Groen, and K. Schutte. "CCD Characterization for a Range of Color Cameras." 2005  
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.77.8513&rep=rep1&type=pdf))
+([PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.77.8513&rep=rep1&type=pdf))
 
 Pixim "[Digital Pixel System Technology](http://bolideco.com/support/technology-highlights/pixim-digital-pixel-system-technology.html)." Whitepaper
 
@@ -137,7 +138,7 @@ Young, I. T., J. J. Gerbrands, and L. J. van Vliet. "[Noise](ftp://qiftp.tudelft
 
 [Digital Photography Miscellaneous Info](http://www.ayton.id.au/gary/photo/Dig_misc1.htm)
 
-Digital Photography Fundamentals by Apple (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.3MB](http://manuals.info.apple.com/MANUALS/0/MA123/en_US/Aperture_Photography_Fundamentals.pdf))
+Digital Photography Fundamentals by Apple ([PDF - 2.3MB](http://manuals.info.apple.com/MANUALS/0/MA123/en_US/Aperture_Photography_Fundamentals.pdf))
 
 [Nikon F5 Series SLR models - Various Metering Systems](http://www.mir.com.my/rb/photography/hardwares/classics/NikonF5/metering/)
 

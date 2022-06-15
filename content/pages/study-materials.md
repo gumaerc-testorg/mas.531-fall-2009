@@ -1,8 +1,8 @@
 ---
 content_type: page
+description: This section provides study materials for the mid-term exam of the course.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Study Materials
 uid: 00915d9f-c9bb-1ab5-440f-f4d38b81b321
 ---
