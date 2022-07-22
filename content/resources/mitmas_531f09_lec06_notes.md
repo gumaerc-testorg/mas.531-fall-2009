@@ -6,6 +6,7 @@ file: /courses/mas-531-computational-camera-and-photography-fall-2009/b44ed19567
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Class 6: Cameras for HCI'
 uid: b44ed195-67b2-80f0-7596-0c5978f3bd2f
 ---
 Lecture presentation on light fields, cameras for human-computer interaction, and BiDi screen.
-

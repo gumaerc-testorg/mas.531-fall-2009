@@ -5,6 +5,7 @@ file: /courses/mas-531-computational-camera-and-photography-fall-2009/bc24ae73b9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Improving Film-Like Photography: aka, Epsilon Photography'
 uid: bc24ae73-b93d-9f61-5f59-23b1011cfe77
 ---
 Lecture presentation on epsilon photography and film-like optics.
-

@@ -6,6 +6,7 @@ file: /courses/mas-531-computational-camera-and-photography-fall-2009/7b9d8b0a74
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Wavelengths and Colors
 uid: 7b9d8b0a-7443-41f8-3848-724a9161c37a
 ---
 Lecture presentation on modern optics and lenses, ray-matrix operations, and context enhanced imaging.
-

@@ -7,6 +7,7 @@ file: /courses/mas-531-computational-camera-and-photography-fall-2009/2ffc05d38c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Cameras We Cannot Picture
 uid: 2ffc05d3-8cb0-5cb1-bca9-2ab86cd58d06
 ---
 Lecture presentation on the history of the camera, the invention of photographic film, the invention of CCD semiconductor sensor, new directions in camera design, cameras and computers, and the future.
-

@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: Animation of concept
 uid: 3bbc1464-5e2b-150b-2f37-c6f8cd4a5a08
 ---
 Supporting file for a student project on taking sharp images from a moving camera.
-

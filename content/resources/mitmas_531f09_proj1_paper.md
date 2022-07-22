@@ -6,6 +6,7 @@ file: /courses/mas-531-computational-camera-and-photography-fall-2009/fa886348e8
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Separating Transparent Layers in Images
 uid: fa886348-e8cb-606a-07e4-06329d1ae2d6
 ---
 Example of student work for a project to produce a conference quality paper on computational photography.
-

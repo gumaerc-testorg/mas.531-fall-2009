@@ -5,6 +5,7 @@ file: /courses/mas-531-computational-camera-and-photography-fall-2009/dc2fc981b2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Single-shot Multidomain Camera
 uid: dc2fc981-b218-4f2a-413d-be96dc1d91ca
 ---
 Lecture presentation on single shot multidomain cameras.
-

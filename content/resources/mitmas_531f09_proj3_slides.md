@@ -6,6 +6,7 @@ file: /courses/mas-531-computational-camera-and-photography-fall-2009/6e17a36848
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Motion Blur and Chicken Heads
 uid: 6e17a368-48b6-ab0c-6ae4-9a7143510202
 ---
 Example of student work for a project to produce a conference quality paper on computational photography.
-

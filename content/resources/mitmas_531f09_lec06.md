@@ -6,6 +6,7 @@ file: /courses/mas-531-computational-camera-and-photography-fall-2009/a103c24a51
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lightfields, part 2
 uid: a103c24a-51ae-ab7c-e02f-6f715c7c33d1
 ---
 Lecture presentation on light fields and cameras for human computer interaction (HCI).
-

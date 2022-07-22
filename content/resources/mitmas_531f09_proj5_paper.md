@@ -6,6 +6,7 @@ file: /courses/mas-531-computational-camera-and-photography-fall-2009/85068dd111
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 3D Texture Maps from an Articulated Sensor Camera Mesh
 uid: 85068dd1-110a-d439-fa94-56111d423caf
 ---
 Example of student work for a project to produce a conference quality paper on computational photography.
-

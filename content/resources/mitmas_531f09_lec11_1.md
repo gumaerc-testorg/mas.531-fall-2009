@@ -5,6 +5,7 @@ file: /courses/mas-531-computational-camera-and-photography-fall-2009/9b592453dc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Coded imaging
 uid: 9b592453-dcc8-51be-79ce-e815b30cf508
 ---
 Lecture presentation on coded imaging, blurring, and the deblurring process.
-
