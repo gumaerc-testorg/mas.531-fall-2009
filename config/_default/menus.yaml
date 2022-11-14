@@ -7,23 +7,27 @@ leftnav:
   name: Readings
   url: /pages/readings
   weight: 20
+- identifier: c0e8a66b-ffe9-4554-9887-5dca4d1d34a1
+  name: Audio Lectures
+  url: /video_galleries/audio-lectures
+  weight: 30
 - identifier: 49bb1f92-0987-68a5-8422-744178c448d9
   name: Lecture Notes
   url: /pages/lecture-notes
-  weight: 30
+  weight: 40
 - identifier: 41d0b379-f7c4-4738-d6ab-994fa02224ed
   name: Assignments
   url: /pages/assignments
-  weight: 40
+  weight: 50
 - identifier: 2fcf5de0-b2b1-19ca-33d1-c6ff7c739036
   name: Projects
   url: /pages/projects
-  weight: 50
+  weight: 60
 - identifier: 00915d9f-c9bb-1ab5-440f-f4d38b81b321
   name: Study Materials
   url: /pages/study-materials
-  weight: 60
+  weight: 70
 - identifier: a2d550b5-7726-a799-2dd2-1f2dc9973361
   name: Related Resources
   url: /pages/related-resources
-  weight: 70
+  weight: 80
