@@ -2,26 +2,25 @@
 content_type: page
 description: Links to related resources on computational photography, Nobel Prizes
   related to imaging, and additional useful resources.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: a2d550b5-7726-a799-2dd2-1f2dc9973361
 ---
-
 [Camera Culture Group at the MIT Media Lab](http://cameraculture.media.mit.edu/): for latest news, publications, and related materials.
 
-Computational Photography Links
--------------------------------
+## Computational Photography Links
 
 Raskar, R. "[Computational Photography: Epsilon to Coded Imaging](http://videolectures.net/etvc08_raskar_cpetci/)." Video of presentation at Emerging Trends in Visual Computing (ETVC '08), Paris, France.
 
-Greene, K. "[Photo Future](https://www.technologyreview.com/2009/04/21/266947/photo-future/)." _Technology Review_ (May/June 2009).
+Greene, K. "[Photo Future](https://www.technologyreview.com/2009/04/21/266947/photo-future/)." *Technology Review* (May/June 2009).
 
-Hayes, B. "[Computational Photography](http://www.americanscientist.org/issues/pub/computational-photography)." _American Scientist_ 96, no. 2 (March-April 2008): 94.
+Hayes, B. "[Computational Photography](http://www.americanscientist.org/issues/pub/computational-photography)." *American Scientist* 96, no. 2 (March-April 2008): 94.
 
 Raskar, R., and J. Tumblin. [Notes for SIGGRAPH 2008 course: Computational Photography](http://web.media.mit.edu/~raskar/photo/).
 
-[Advance and supporting material](http://computationalphotography.org/) for the forthcoming book by Raskar and Tumblin. _Computational Photography: Mastering New Techniques for Lenses, Lighting, and Sensors_. Wellesley, MA: A. K. Peters, Ltd., 2010. ISBN: 9781568813134.
+[Advance and supporting material](http://computationalphotography.org/) for the forthcoming book by Raskar and Tumblin. *Computational Photography: Mastering New Techniques for Lenses, Lighting, and Sensors*. Wellesley, MA: A. K. Peters, Ltd., 2010. ISBN: 9781568813134.
 
 [Symposium on Computational Photography and Video](http://scpv.csail.mit.edu/), Cambridge, MA, May 2005.
 
@@ -37,15 +36,13 @@ CSAIL - MIT work on [Computational Photography and Video](http://people.csail.mi
 
 Jack Tumblin's '[Current Research Questions](http://www.cs.northwestern.edu/~jet/research.html)' for the field
 
-Nobel Prizes Related to Imaging
--------------------------------
+## Nobel Prizes Related to Imaging
 
 The [2009 Nobel Prize in Physics](http://nobelprize.org/nobel_prizes/physics/laureates/2009/) was a split award, half of it related to imaging: Willard S. Boyle and George E. Smith "for the invention of an imaging semiconductor circuit – the CCD (Charge Coupled Device) sensor."
 
 [Imaging Life](https://educationalgames.nobelprize.org/educational/physics/imaginglife/about.html) - a Nobelprize.org web site with timeline, video and articles about imaging-related innovations. 
 
-Additional Useful Resources (From Prof. Fredo Durand)
------------------------------------------------------
+## Additional Useful Resources (From Prof. Fredo Durand)
 
 The following is based on a list compiled by Prof. Fredo Durand for his class 6.088/6.882 Digital and Computational Photography, Spring 2007. (Courtesy of Fredo Durand. Used with permission).
 
@@ -107,12 +104,12 @@ Ramanath, R., W. E. Snyder, Y. Yoo, and M. S. Drew. "Color Image Processing Pipe
 
 Farrel, J. E., F. Xiao, P. B. Catrysse, and B. A. Wandell. "A Simulation Tool for Evaluating Digital Camera Image Quality." 2004 ([PDF](http://scarlet.stanford.edu/~brian/papers/pdc/SPIE-2004-Simulator-5294-17.pdf))
 
-Withagen, P. J., F. C. A. Groen, and K. Schutte. "CCD Characterization for a Range of Color Cameras." 2005  
+Withagen, P. J., F. C. A. Groen, and K. Schutte. "CCD Characterization for a Range of Color Cameras." 2005   
 ([PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.77.8513&rep=rep1&type=pdf))
 
 Pixim "[Digital Pixel System Technology](http://bolideco.com/support/technology-highlights/pixim-digital-pixel-system-technology.html)." Whitepaper
 
-Young, I. T., J. J. Gerbrands, and L. J. van Vliet. "[Noise](ftp://qiftp.tudelft.nl/DIPimage/docs/FIP2.3.pdf)." From the Web site _Image Processing Fundamentals_, TU Delft, 2003.
+Young, I. T., J. J. Gerbrands, and L. J. van Vliet. "[Noise](ftp://qiftp.tudelft.nl/DIPimage/docs/FIP2.3.pdf)." From the Web site *Image Processing Fundamentals*, TU Delft, 2003.
 
 ### Photography Web sites
 
@@ -178,7 +175,7 @@ DIY Cameras
 
 "[Aniston Seething Over Redbook Cover](http://www.frankwbaker.com/aniston.htm)."
 
-[NPPA Calls Newsweek's Martha Stewart Cover "A Major Ethical Breach](https://nppa.org/news/282)." National Press Photographers Association, March 9, 2005.
+NPPA Calls Newsweek's Martha Stewart Cover "A Major Ethical Breach." National Press Photographers Association, March 9, 2005.
 
 [Popular Culture: Is Seeing Believing?](http://www.frankwbaker.com/isbmag.htm)
 
@@ -188,4 +185,4 @@ DIY Cameras
 
 [Portrait Professional](http://www.portraitprofessional.com/)
 
-Wayner, Peter. "[Looking Perfect, One Pixel at a Time](http://www.nytimes.com/2007/04/26/technology/26retouch.html)." _The New York Times_, April 26, 2007.
+Wayner, Peter. "[Looking Perfect, One Pixel at a Time](http://www.nytimes.com/2007/04/26/technology/26retouch.html)." *The New York Times*, April 26, 2007.
