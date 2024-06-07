@@ -5,6 +5,7 @@ description: Lecture presentation introducing light fields, ray concepts for 4D 
   analysis and relationship to Fourier optics, coded photograph, Wigner and ambiguity
   function for light field in wave optics, and new results in augmenting light fields.
 file: /courses/mas-531-computational-camera-and-photography-fall-2009/40e9d54e403508a353d05a8b34a67258_MITMAS_531F09_lec05.pdf
+file_size: 4842747
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation on single shot multidomain cameras.
 file: /courses/mas-531-computational-camera-and-photography-fall-2009/dc2fc981b2184f2a413dbe96dc1d91ca_MITMAS_531F09_lec03_2.pdf
+file_size: 2278508
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
