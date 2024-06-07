@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on retrographic sensing for the measurement of surface
   texture and shape.
 file: /courses/mas-531-computational-camera-and-photography-fall-2009/c64a9a1de7befb2c0c7c8825d69c5163_MITMAS_531F09_lec05_2.pdf
+file_size: 3519933
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
