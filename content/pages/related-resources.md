@@ -60,7 +60,7 @@ Photo classes offered by the [MIT Student Art Association](http://saa.mit.edu/)
 
 [21A.348 Photography and Truth](/courses/21a-348-photography-and-truth-spring-2008)
 
-[21W.749 Documentary Photography and Photo Journalism: Still Images of A World In Motion](/courses/21w-749-documentary-photography-and-photojournalism-still-images-of-a-world-in-motion-spring-2016)
+21W.749 Documentary Photography and Photo Journalism: Still Images of A World In Motion
 
 [MAS.450 Holographic Imaging](/courses/mas-450-holographic-imaging-spring-2003)
 
@@ -104,18 +104,16 @@ Ramanath, R., W. E. Snyder, Y. Yoo, and M. S. Drew. "Color Image Processing Pipe
 
 Farrel, J. E., F. Xiao, P. B. Catrysse, and B. A. Wandell. "A Simulation Tool for Evaluating Digital Camera Image Quality." 2004 ([PDF](http://scarlet.stanford.edu/~brian/papers/pdc/SPIE-2004-Simulator-5294-17.pdf))
 
-Withagen, P. J., F. C. A. Groen, and K. Schutte. "CCD Characterization for a Range of Color Cameras." 2005   
+Withagen, P. J., F. C. A. Groen, and K. Schutte. "CCD Characterization for a Range of Color Cameras." 2005       
 ([PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.77.8513&rep=rep1&type=pdf))
 
-Pixim "[Digital Pixel System Technology](http://bolideco.com/support/technology-highlights/pixim-digital-pixel-system-technology.html)." Whitepaper
+Pixim "Digital Pixel System Technology." Whitepaper
 
 Young, I. T., J. J. Gerbrands, and L. J. van Vliet. "[Noise](ftp://qiftp.tudelft.nl/DIPimage/docs/FIP2.3.pdf)." From the Web site *Image Processing Fundamentals*, TU Delft, 2003.
 
 ### Photography Web sites
 
 [Fluideffects](http://www.fluideffect.com/) (impressive before/after retouching)
-
-[The Mathematics of Depth of Field](http://www.naturescapes.net/102004/ps1004.htm)
 
 [Digital Photography Review](http://www.dpreview.com/) (best resource for camera reviews)
 
@@ -173,11 +171,9 @@ DIY Cameras
 
 [Girlpower - Retouch](http://v3ktor.se/girlpower_reveal_the_retouch.php)
 
-"[Aniston Seething Over Redbook Cover](http://www.frankwbaker.com/aniston.htm)."
-
 NPPA Calls Newsweek's Martha Stewart Cover "A Major Ethical Breach." National Press Photographers Association, March 9, 2005.
 
-[Popular Culture: Is Seeing Believing?](http://www.frankwbaker.com/isbmag.htm)
+[Popular Culture: Is Seeing Believing?](https://www.frankwbaker.com/mlc/is-seeing-believing/)
 
 [Glenn C. Feron: The Art of Retouching](http://glennferon.com/index.html)
 

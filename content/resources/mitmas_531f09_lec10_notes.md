@@ -6,6 +6,7 @@ description: Lecture presentation on eye function, rhodopsin, parietal eyes, eye
   the cornea, accommodation, the iris and pupil, nocturnal animals, reflective eyes,
   Amphibious Eyes, compound eyes, superposition eyes, movement, and future human evolution.
 file: /courses/mas-531-computational-camera-and-photography-fall-2009/784fbe9e6945839f5a94d2218cc3ffdf_MITMAS_531F09_lec10_notes.pdf
+file_size: 127287
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
