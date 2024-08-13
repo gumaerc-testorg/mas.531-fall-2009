@@ -52,17 +52,17 @@ Photo classes offered by the [MIT Student Art Association](http://saa.mit.edu/)
 
 [The Edgerton Center](http://web.mit.edu/Edgerton/)
 
-[11.309J / 4.215J Sensing Place: Photography as Inquiry](/courses/11-309j-sensing-place-photography-as-inquiry-fall-2012)
+[11.309J / 4.215J Sensing Place: Photography as Inquiry](https://ocw-studio.odl.mit.edu/courses/11-309j-sensing-place-photography-as-inquiry-fall-2012)
 
-[4.341 Introduction to Photography and Related Media](/courses/4-341-introduction-to-photography-and-related-media-fall-2007)
+[4.341 Introduction to Photography and Related Media](https://ocw-studio.odl.mit.edu/courses/4-341-introduction-to-photography-and-related-media-fall-2007)
 
-[6.163 Strobe Project Laboratory](/courses/6-163-strobe-project-laboratory-fall-2005)
+[6.163 Strobe Project Laboratory](https://ocw-studio.odl.mit.edu/courses/6-163-strobe-project-laboratory-fall-2005)
 
-[21A.348 Photography and Truth](/courses/21a-348-photography-and-truth-spring-2008)
+[21A.348 Photography and Truth](https://ocw-studio.odl.mit.edu/courses/21a-348-photography-and-truth-spring-2008)
 
 21W.749 Documentary Photography and Photo Journalism: Still Images of A World In Motion
 
-[MAS.450 Holographic Imaging](/courses/mas-450-holographic-imaging-spring-2003)
+[MAS.450 Holographic Imaging](https://ocw-studio.odl.mit.edu/courses/mas-450-holographic-imaging-spring-2003)
 
 [SP.747 Creative Imaging](http://web.mit.edu/sp.747/www/)
 
@@ -100,12 +100,11 @@ Szeliski, Rick. "Image Alignment and Stitching: A Tutorial." 2004 ([PDF](http://
 
 [Autostitch](http://matthewalunbrown.com/autostitch/autostitch.html) (University of British Columbia)
 
-Ramanath, R., W. E. Snyder, Y. Yoo, and M. S. Drew. "Color Image Processing Pipeline in Digital Still Cameras." 2005 ([PDF - 7.8MB](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.11.77&rep=rep1&type=pdf))
+Ramanath, R., W. E. Snyder, Y. Yoo, and M. S. Drew. "Color Image Processing Pipeline in Digital Still Cameras." 2005 ([PDF - 7.8MB](https://www2.cs.sfu.ca/~mark/ftp/SignalProcessing05/Color_image_processing_pipeline05.pdf))
 
-Farrel, J. E., F. Xiao, P. B. Catrysse, and B. A. Wandell. "A Simulation Tool for Evaluating Digital Camera Image Quality." 2004 ([PDF](http://scarlet.stanford.edu/~brian/papers/pdc/SPIE-2004-Simulator-5294-17.pdf))
+Farrel, J. E., F. Xiao, P. B. Catrysse, and B. A. Wandell. "A Simulation Tool for Evaluating Digital Camera Image Quality." 2004 ([PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5294/1/A-simulation-tool-for-evaluating-digital-camera-image-quality/10.1117/12.537474.short))
 
-Withagen, P. J., F. C. A. Groen, and K. Schutte. "CCD Characterization for a Range of Color Cameras." 2005       
-([PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.77.8513&rep=rep1&type=pdf))
+Withagen, P. J., F. C. A. Groen, and K. Schutte. ["CCD Characterization for a Range of Color Cameras."](https://ieeexplore.ieee.org/document/1604573) 2005
 
 Pixim "Digital Pixel System Technology." Whitepaper
 
@@ -121,7 +120,7 @@ Young, I. T., J. J. Gerbrands, and L. J. van Vliet. "[Noise](ftp://qiftp.tudelft
 
 [Digital Outback Photo](http://www.outbackphoto.com/about/about.html)
 
-[Rob Galbraith Digital Photography Insights](http://www.robgalbraith.com/bins/index.asp)
+[Rob Galbraith Digital Photography Insights](https://web.archive.org/web/20111127103433/http://www.robgalbraith.com/bins/index.asp)
 
 [Photo.net](http://photo.net/)
 
