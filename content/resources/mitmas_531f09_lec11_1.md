@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on coded imaging, blurring, and the deblurring process.
-file: /courses/mas-531-computational-camera-and-photography-fall-2009/9b592453dcc851be79cee815b30cf508_MITMAS_531F09_lec11_1.pdf
+file: /ol-ocw-studio-app/courses/mas-531-computational-camera-and-photography-fall-2009/9b592453dcc851be79cee815b30cf508_MITMAS_531F09_lec11_1.pdf
 file_size: 2573733
 file_type: application/pdf
 learning_resource_types:

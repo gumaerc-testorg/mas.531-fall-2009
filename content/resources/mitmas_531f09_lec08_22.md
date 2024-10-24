@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/mas-531-computational-camera-and-photography-fall-2009/mitmas_531f09_lec08_2_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/mas-531-computational-camera-and-photography-fall-2009/mitmas_531f09_lec08_2_360p_16_9.mp4
 file_size: 116104618
 file_type: video/mp4
 image_metadata:
