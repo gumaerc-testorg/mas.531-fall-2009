@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on light fields, cameras for human-computer interaction,
   and BiDi screen.
-file: /courses/mas-531-computational-camera-and-photography-fall-2009/b44ed19567b280f075960c5978f3bd2f_MITMAS_531F09_lec06_notes.pdf
+file: /ol-ocw-studio-app/courses/mas-531-computational-camera-and-photography-fall-2009/b44ed19567b280f075960c5978f3bd2f_MITMAS_531F09_lec06_notes.pdf
 file_size: 1486950
 file_type: application/pdf
 learning_resource_types:
