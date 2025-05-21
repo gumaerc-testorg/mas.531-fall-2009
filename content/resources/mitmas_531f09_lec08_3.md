@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation surveying hyperspectral imaging techniques.
-file: /ol-ocw-studio-app/courses/mas-531-computational-camera-and-photography-fall-2009/42009c031a6d382a6df1e08af6241268_MITMAS_531F09_lec08_3.pdf
+file: /courses/mas-531-computational-camera-and-photography-fall-2009/42009c031a6d382a6df1e08af6241268_MITMAS_531F09_lec08_3.pdf
 file_size: 423514
 file_type: application/pdf
 learning_resource_types:

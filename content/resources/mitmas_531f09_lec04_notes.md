@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on computational illumination, dual photography, and direct
   and global illumination.
-file: /ol-ocw-studio-app/courses/mas-531-computational-camera-and-photography-fall-2009/3d72c5a3357df158daeb8488e7bffd86_MITMAS_531F09_lec04_notes.pdf
+file: /courses/mas-531-computational-camera-and-photography-fall-2009/3d72c5a3357df158daeb8488e7bffd86_MITMAS_531F09_lec04_notes.pdf
 file_size: 347139
 file_type: application/pdf
 learning_resource_types:
