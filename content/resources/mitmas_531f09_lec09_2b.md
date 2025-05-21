@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on new directions in imaging sensors and examples
   of new camera designs and operation.
-file: /ol-ocw-studio-app/courses/mas-531-computational-camera-and-photography-fall-2009/e139c8204b78a3cc1cdbcc0dc690d147_MITMAS_531F09_lec09_2b.pdf
+file: /courses/mas-531-computational-camera-and-photography-fall-2009/e139c8204b78a3cc1cdbcc0dc690d147_MITMAS_531F09_lec09_2b.pdf
 file_size: 1946028
 file_type: application/pdf
 learning_resource_types:
