@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of student work for a project to produce a conference quality
   paper on computational photography.
-file: /courses/mas-531-computational-camera-and-photography-fall-2009/f0f596266aefc533e5fed219622c34ee_MITMAS_531F09_proj4_paper.pdf
+file: /ol-ocw-studio-app/courses/mas-531-computational-camera-and-photography-fall-2009/f0f596266aefc533e5fed219622c34ee_MITMAS_531F09_proj4_paper.pdf
 file_size: 447854
 file_type: application/pdf
 learning_resource_types:
