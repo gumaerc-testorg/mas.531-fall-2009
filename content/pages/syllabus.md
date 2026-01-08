@@ -51,7 +51,7 @@ The course is intended for students with interest in algorithmic and technical a
 
 Familiarity with imaging, camera techniques, applied optics, linear algebra and signal processing will be helpful but not necessary. Given the multi-disciplinary nature of the subject, the class will be open and supportive of students with different software and hardware (electronics/optics) backgrounds. We try to keep the mathematical prerequisites to a minimum, but we will introduce material from broad areas at a fast pace.
 
-SIGGRAPH course videos (2007 and 2008) found on Raskar and Tumblin's [Computational Photography](http://web.media.mit.edu/~raskar//photo/) page may be helpful.
+SIGGRAPH course videos (2007 and 2008) found on Raskar and Tumblin's {{% resource_link "8c29cbe6-92ec-4a82-8629-d34b3bcd9bc7" "Computational Photography" %}} page may be helpful.
 
 ### Related Courses
 
